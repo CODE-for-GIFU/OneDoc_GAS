@@ -15,3 +15,7 @@ LINEボットを通じて会員登録作業を行います
 
 ## ドキュメント情報(2シート目)
 MakeFormatで指定するコマンドと、GoogleドキュメントのIDの一覧が記録されます
+
+# Githubについて
+Google AppScript Githubアシスタントを使用しています。
+https://chrome.google.com/webstore/detail/google-apps-script-github/lfjcgcmkmjjlieihflfhjopckgpelofo?hl=ja
