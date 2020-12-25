@@ -2,7 +2,7 @@
 var scriptProp　 　　= PropertiesService.getScriptProperties().getProperties();
 var channel_token   = scriptProp.LINE_CHANNEL_TOKEN;
 var url             = "https://api.line.me/v2/bot/message/reply";
-var des_drive_id    = "1AC9WuOYm_DAn_Fsp76f29iIX38gRkMVg";
+var des_drive_id    = scriptProp.GDRIVE_DES_ID;
 
 // GASの指定(ユーザー情報のスプレッドシートのセル位置)
 var STATE_USER_NAME = 2;
